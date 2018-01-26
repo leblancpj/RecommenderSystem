@@ -1,4 +1,4 @@
-%% Machine Learning Online Class
+I%% Machine Learning Online Class
 %  Exercise 8 | Anomaly Detection and Collaborative Filtering
 %
 %  Instructions
@@ -116,11 +116,7 @@ pause;
 
 
 %% ============== Part 6: Entering ratings for a new user ===============
-%  Before we will train the collaborative filtering model, we will first
-%  add ratings that correspond to a new user that we just observed. This
-%  part of the code will also allow you to put in your own ratings for the
-%  movies in our dataset!
-%
+
 movieList = loadMovieList();
 
 %  Initialize my ratings
